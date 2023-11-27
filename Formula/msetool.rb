@@ -4,8 +4,8 @@
 class Msetool < Formula
   desc "mse tools"
   homepage "hello"
-  url "https://raw.githubusercontent.com/whalecold/homebrew-tools/main/msetool_0.1.0.tar.gz"
-  sha256 "9dea632d23d0c0125bff40b9f385226c8e71f4d701320df3c48c92c8c9e2fc10"
+  url "https://raw.githubusercontent.com/whalecold/homebrew-tools/main/msetool_0.0.3.tar.gz"
+  sha256 "74655288638eefc28a898bce5d25adfb224a0545c97ec2e5f1088734fccd3bd8"
   license ""
 
   # depends_on "cmake" => :build
