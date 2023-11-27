@@ -4,7 +4,7 @@
 class Msetool < Formula
   desc "mse tools"
   homepage "hello"
-  url "https://raw.githubusercontent.com/whalecold/homebrew-tools/main/msetool_0.0.2.tar.gz"
+  url "https://raw.githubusercontent.com/whalecold/homebrew-tools/main/msetool_0.1.0.tar.gz"
   sha256 "9dea632d23d0c0125bff40b9f385226c8e71f4d701320df3c48c92c8c9e2fc10"
   license ""
 
